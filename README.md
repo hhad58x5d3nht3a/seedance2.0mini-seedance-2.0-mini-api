@@ -2,7 +2,7 @@
 
 > **$0.01056 per second at 480P** — the cheapest video route on the platform, billed per generated second.
 
-**[Model page](https://apimart.ai/model/seedance-2.0-mini)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-8bba9f)** · **[Live pricing](https://go.apimart.ai/k-e294e1)** · **[Get an API key](https://go.apimart.ai/k-fa4aeb)**
 
 Everything on this page refers to **seedance-2.0-mini** — also written **seedance2.0mini**, **seedance 2.0 mini** or **seedance-20-mini** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 
